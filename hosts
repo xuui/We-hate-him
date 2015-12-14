@@ -1,0 +1,10 @@
+# Here is our list of host hate sites.
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+
+0.0.0.0	hao123.com
+0.0.0.0	www.hao123.com
+0.0.0.0	qquu8.com
+0.0.0.0	hao.qquu8.com
+0.0.0.0	googleapis.com
+0.0.0.0	fonts.googleapis.com
