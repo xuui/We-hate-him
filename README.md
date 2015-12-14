@@ -1,8 +1,8 @@
 # We-hate-him
 
-Here is our list of host hate sites.  
-这里都是我们痛恨的网站的host列表。 
+These sites do not exist before.  
+这些网站都不存在过。  
 
-Impact and slow down the speed of network access are here.  
-影响网络访问和拖慢网速的都在这里面。  
+It does not really exist, really!   
+真的不存在，真的！  
 
