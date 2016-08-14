@@ -1,0 +1,28 @@
+# These sites do not exist before.
+
+# Dropbox.
+108.160.172.238		dropbox.com
+108.160.172.206		dropbox.com
+108.160.172.238		www.dropbox.com
+108.160.172.238		www.dropbox.com				www.g1.dropbox.com
+108.160.172.238		www.g1.dropbox.com
+108.160.172.69		dl.dropbox.com
+108.160.172.69		dl.dropbox.com				block-www.g1.dropbox.com
+108.160.172.69		block-www.g1.dropbox.com
+45.58.69.37			dl-web.dropbox.com
+45.58.69.37			dl-web.dropbox.com			block-www.g1.dropbox.com
+45.58.69.37			block-www.g1.dropbox.com
+205.251.215.101		forums.dropbox.com
+205.251.215.76		forums.dropbox.com
+205.251.215.7		forums.dropbox.com
+205.251.215.144		forums.dropbox.com
+205.251.215.143		forums.dropbox.com
+205.251.215.153		forums.dropbox.com
+205.251.215.78		forums.dropbox.com
+205.251.215.92		forums.dropbox.com
+45.58.69.4			api.dropbox.com
+108.160.172.237		api.v.dropbox.com
+108.160.172.205		api.v.dropbox.com			api.v.dropbox.com
+45.58.69.4			api-content.dropbox.com
+45.58.69.4			block-api.g1.dropbox.com
+45.58.69.4			block-api.g1.dropbox.com	api-content.dropbox.com
